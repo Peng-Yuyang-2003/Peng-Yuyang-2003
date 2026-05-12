@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peng-Yuyang-2003
-- 👀 I’m interested in SNN, memristor, microelectronics and so on,
-- 🌱 I’m currently learning SNN
-- 💞️ I’m looking to collaborate on SNN composed of real circuit devices
+- 👀 I’m interested in memristor, 2D-material transistor, microelectronics and so on
+- 🌱 I’m currently learning Hybrid bonding for memristor and 2D-material transistor
+- 💞️ I’m looking to collaborate on nerual network simulation composed of real circuit devices
 - 📫 How to reach me 2101066425@qq.com
 
 <!---
